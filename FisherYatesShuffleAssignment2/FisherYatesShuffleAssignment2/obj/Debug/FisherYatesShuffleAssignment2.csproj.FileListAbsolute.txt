@@ -1,0 +1,7 @@
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\bin\Debug\FisherYatesShuffleAssignment2.exe.config
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\bin\Debug\FisherYatesShuffleAssignment2.exe
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\bin\Debug\FisherYatesShuffleAssignment2.pdb
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\obj\Debug\FisherYatesShuffleAssignment2.csprojAssemblyReference.cache
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\obj\Debug\FisherYatesShuffleAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\obj\Debug\FisherYatesShuffleAssignment2.exe
+C:\Users\bwlb\source\repos\FisherYatesShuffleAssignment2\FisherYatesShuffleAssignment2\obj\Debug\FisherYatesShuffleAssignment2.pdb
