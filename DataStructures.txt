@@ -1,0 +1,29 @@
+*/
+Arrays
+An Array is a data structure that holds a partitioned region of memory, and assigned indexes to the individual memory addresses. 
+Arrays are used to hold data sets and can store data in multiple dimensions. 
+The size of an array and it's data type must be assigned upon instatiation, and cannot be dynamically changed at runtime.
+The runtimes of writing and reading to/from Arrays are incredibly efficicient when provided the index to read/write to. 
+This makes them useful data structures to use in functions/methods as temporary storage while you parse/process data for further use.
+However, the runtime of search/removal is inefficient and grows in O(n) time, linearly to the size of the array.
+
+Maps
+A Map is an abstract data type that stores paired sets of keys and corresponding data values. Keys and values can be any data type.
+Unlike arrays Maps have an efficient O(1) average runtime for element instertion, access, deletion and search. 
+Maps have several weaknesses. First their worst case lookup time is O(n). 
+Maps also are designed for Single-direction lookups, meaning that while value look up runs in O(1) time, key look up runs in O(n) time.
+Additionally keys are stored in an unordered way, making logic operations across the key set run at O(n) time.
+
+Stacks
+A stack is a data structure that stores elements in a last-in, first-out order. 
+Because of this ordering structure, stack operations act on the first item on the stack and execute in O(1) time. 
+The Push operation adds a passed-in item to the top of the stack, while the Pop operation removes and returns the item currently at the top of the stack.
+Runtime for access/search of any item further down the stack grows linearly with the size of the stack and executes in O(n) time.
+
+
+Queues
+A queue is a data structure that stores items in a first-in, last-out order. 
+Queue operations act on the either the first or last items in the queue and execute in O(1) time. 
+Enqueueing adds the passed-in item to the beginning of the queue, and Dequeueing returns items in the chronological order that they were stored.
+Similarly to Stacks, item search/access in Queues executes in O(n) time.
+/*
