@@ -1,0 +1,13 @@
+C:\Users\Fish Paste\source\repos\Trees\bin\Debug\netcoreapp3.1\Trees.exe
+C:\Users\Fish Paste\source\repos\Trees\bin\Debug\netcoreapp3.1\Trees.deps.json
+C:\Users\Fish Paste\source\repos\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.json
+C:\Users\Fish Paste\source\repos\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.dev.json
+C:\Users\Fish Paste\source\repos\Trees\bin\Debug\netcoreapp3.1\Trees.dll
+C:\Users\Fish Paste\source\repos\Trees\bin\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.csprojAssemblyReference.cache
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfoInputs.cache
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfo.cs
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.csproj.CoreCompileInputs.cache
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.dll
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\Fish Paste\source\repos\Trees\obj\Debug\netcoreapp3.1\Trees.genruntimeconfig.cache
